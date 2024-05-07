@@ -20,7 +20,7 @@ The following steps were followed:
 4. Filled in missing data in relevant columns
 5. Organized columns in three main categories:
 
-# Social
+### Social
 * Gender
 * Age
 * Marital status
@@ -28,11 +28,11 @@ The following steps were followed:
 * Frequency of use
 * Type of passengers
 
-# Economic
+### Economic
 * Education
 * Annual income
 
-# Situational
+### Situational
 * Driving destination
 * Direction to location
 * Time to location
