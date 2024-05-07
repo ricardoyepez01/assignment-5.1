@@ -56,5 +56,7 @@ The following steps were followed:
 ## Conclusions
 
 Although both coupons are preferred by very similar demographic groups, the Bar coupons were heavily rejected by a couple of very specific groups
-While Takeaway coupons are widely accepted throughout the day, Bar coupons were strongly preferred during early evening hours and mostly rejected before noon
-Adjusting the targeted audience and timing the issuing of the coupon may significantly increase their acceptance
+
+Takeaway coupons are widely accepted throughout the day while Bar coupons were strongly preferred during early evening hours and mostly rejected before noon
+
+Adjusting the targeted audience and timing when the coupon are issued may significantly increase their acceptance
